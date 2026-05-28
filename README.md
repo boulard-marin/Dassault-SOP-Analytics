@@ -1,6 +1,5 @@
-# 🎯 DÉMO INTERACTIVE — Lancer la démo en un clic !
+# 🎯 DÉMO INTERACTIVE — Lancer la démo en un clic
 
-> 🚀 **Recruteur ? Testez les analyses S&OP en direct dans votre navigateur, sans installation.**
 
 Cliquez sur le badge ci-dessous pour lancer le notebook Jupyter hébergé gratuitement sur Binder :
 
